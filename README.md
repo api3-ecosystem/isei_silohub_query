@@ -6,6 +6,10 @@ This is a CosmWasm smart contract that allows you to query the `Silohub` contrac
 
 The contract address of the `Silohub` contract is `sei1e3gttzq5e5k49f9f5gzvrl0rltlav65xu6p9xc0aj7e84lantdjqp7cncc`.
 
+## Deployed Contract Address
+
+The contract address of the deployed `ISei Silohub Query` contract is `sei1a7xygdcf8f0ztdlglh9kme7nm3l4x6avmmjxe3ss57wxc4j6vuhqqa453z`.
+
 ## Contract Workflow
 
 The contract workflow is as follows:
